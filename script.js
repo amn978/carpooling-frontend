@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_BASE_URL = "https://your-app-name.up.railway.app"; // Change this to your deployed URL when needed
+  const API_BASE_URL = "https://carpooling-backend.up.railway.app"; // ✅ Updated with deployed backend URL
 
   // Registration
   const registerForm = document.getElementById("registerForm");
